@@ -1,2 +1,1 @@
-# LongMacro
-Write and edit macros longer than 255 characters directly in Blizzard's native Macro window — no separate UI, no macro slots wasted. Works on Retail, Classic, Classic Era and Anniversary/SoD.
+LongMacro removes the 255-character typing limit inside the real /macro window. Write as much as you want, hit Save like normal — if the macro is too long for a real slot, LongMacro stores the full text and swaps in a tiny stub automatically, icon included. Re-opening the macro shows your full text again. No separate editor, no extra clicks — it's just your macro window, unlocked.
