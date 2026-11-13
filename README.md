@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".github/icon.png" alt="LongMacro" width="128">
+</p>
+
 <h1 align="center">LongMacro</h1>
 
 <p align="center">
